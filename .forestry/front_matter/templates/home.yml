@@ -49,3 +49,5 @@ fields:
 - type: boolean
   name: show_news
   label: show_news
+pages:
+- welcome.md
