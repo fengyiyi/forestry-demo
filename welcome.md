@@ -15,6 +15,5 @@ hero_button:
   text: about
   href: "/about"
 show_news: true
-published: false
 
 ---
